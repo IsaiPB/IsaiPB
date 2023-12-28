@@ -3,7 +3,7 @@
 </div>
 <img src="https://github.com/IsaiPB/IsaiPB/blob/main/Banner.png?raw=true">
 
-[![LinkedIn](https://github.com/IsaiPB/IsaiPB/blob/main/linkedin.png?raw=true)](www.linkedin.com/in/qfb-isai-pb)
+[![LinkedIn](https://github.com/IsaiPB/IsaiPB/blob/main/linkedin.png?raw=true)](https://www.linkedin.com/in/qfb-isai-pb/)
 
 <!--**IsaiPB/IsaiPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
