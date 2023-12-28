@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-
+## Sobre mi
+<div align="justify">Soy un Químico Farmacéutico Biólogo en proceso de convertirme un apasionado analista de datos. En la actualidad, estoy tomando cursos y certificaciones de programación en Python, R y SQL con el propósito de enfocarlos al análisis estadístico y utilizarlos en diversas áreas de la industria farmacéutica y la salud pública.</div> 
