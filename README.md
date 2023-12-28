@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola Mundo, soy Isaí 👋</h1>
 </div>
-<img src="https://github.com/IsaiPB/IsaiPB/blob/main/Grey%20Simple%20Business%20Corporate%20LinkedIn%20Banner%20(1).png?raw=true">
+<img src="https://github.com/IsaiPB/IsaiPB/blob/main/Banner.png?raw=true">
+
+[![LinkedIn](https://github.com/IsaiPB/IsaiPB/blob/main/linkedin.png?raw=true)](www.linkedin.com/in/qfb-isai-pb)
 
 <!--**IsaiPB/IsaiPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
