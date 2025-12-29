@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola Mundo, soy Isaí 👋</h1>
+<h1 align="center">Hello world, I'm Isaí 👋</h1>
 </div>
 <img src="https://github.com/IsaiPB/IsaiPB/blob/main/Banner.png?raw=true">
 
