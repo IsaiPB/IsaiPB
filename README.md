@@ -7,7 +7,25 @@
 [![GitHub followers](https://img.shields.io/github/followers/isaipb?style=social)](https://github.com/IsaiPB)
 
 ## :man_technologist: Sobre mi
-<div align="justify">Soy un Químico Farmacéutico Biólogo en proceso de convertirme en un apasionado analista de datos. En la actualidad, estoy tomando cursos y certificaciones de programación en Python, R y SQL con el propósito de enfocarlos al análisis estadístico y utilizarlos en diversas áreas de la industria farmacéutica y la salud pública.</div> 
+<div style="text-align: justify; max-width: 800px; margin: 0 auto;">
+
+  <p>
+    QFB titulado y estudiante de Matemáticas con enfoque en <strong>Ciencia de Datos y análisis cuantitativo</strong>.
+  </p>
+
+  <p>
+    Desarrollo habilidades en <strong>Python, R y SQL</strong> para análisis estadístico, modelado y visualización de datos, con interés en aplicar soluciones basadas en datos en múltiples industrias.
+  </p>
+
+  <p>
+    Me interesa abordar problemas complejos desde una perspectiva matemática, estructurada y orientada a resultados.
+  </p>
+
+  <p>
+    Tengo un fuerte interés en los <strong>modelos matemáticos aplicados a Inteligencia Artificial</strong>, incluyendo <strong>Machine Learning (ML)</strong> y <strong>Deep Learning (DL)</strong>, especialmente en su formulación teórica, optimización y fundamentos estadísticos.
+  </p>
+
+</div>
 
 ## :man_technologist: Stack
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) 
