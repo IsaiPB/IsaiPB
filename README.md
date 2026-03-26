@@ -14,7 +14,7 @@
   </p>
 
   <p>
-    Desarrollo habilidades en <strong>Python, R y SQL</strong> para análisis estadístico, modelado y visualización de datos, con interés en aplicar soluciones basadas en datos en múltiples industrias.
+    Desarrollando habilidades en <strong>Python, R y SQL</strong> para análisis estadístico, modelado y visualización de datos, con interés en aplicar soluciones basadas en datos en múltiples industrias.
   </p>
 
   <p>
